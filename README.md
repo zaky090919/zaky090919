@@ -1,6 +1,6 @@
 # Hello World, I'm Zaky Al Fitra👋
 
-![Image]()
+![Image](/img/github-header-image.png)
 
 <!--
 **zaky090919/zaky090919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
