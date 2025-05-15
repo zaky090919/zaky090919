@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hello World, I'm Zaky Al Fitra👋
 
 <!--
 **zaky090919/zaky090919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **CSIS Indonesia**
+- 🌱 I’m currently learning **django Python**
+# 🙌🙌🙌🙌
+
+![Programmer](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWljY3BndGgzMHFzenZ4NnVydHhsdDEzMTdxbWM5OGl5d2h2ODQwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
